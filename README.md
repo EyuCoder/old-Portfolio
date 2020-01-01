@@ -1,3 +1,3 @@
 # Portfolio
 My Personal Website
-![](images/preview.png)
+![homepage](images/preview.PNG)
